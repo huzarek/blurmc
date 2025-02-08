@@ -258,7 +258,7 @@ section .header{
     transition: all 0.3s ease; 
     width: 200px;
     color: #fff;
-    text-align: center;
+    text-align: right;
 }
 .admin:hover {
     background-color: #323232;
