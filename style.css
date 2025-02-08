@@ -251,8 +251,6 @@ section .header{
 }
 
 .admin {
-    display: flex;
-    align-items: center;
     background-color: #27272a;
     padding: 1rem;
     border: 2px solid transparent;
@@ -260,8 +258,7 @@ section .header{
     transition: all 0.3s ease; 
     width: 200px;
     color: #fff;
-    text-align: left; 
-    flex-direction: row-reverse; 
+    text-align: center; 
 }
 .admin:hover {
     background-color: #323232;
