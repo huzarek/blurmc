@@ -251,6 +251,9 @@ section .header{
 }
 
 .admin {
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
     background-color: #27272a;
     padding: 1rem;
     border: 2px solid transparent;
